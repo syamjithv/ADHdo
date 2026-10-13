@@ -42,7 +42,7 @@ Traditional to-do apps often induce guilt and cognitive overload by presenting g
 ## 📸 Demo
 <p align="center">
   <a href="https://github.com/syamjithv/ADHdo/raw/refs/heads/main/Recording%202026-10-13%20153246.mp4">
-    ▶️ **Watch the ADHdo! Demo**
+    ▶️ Watch the ADHdo! Demo
   </a>
 </p>
 
@@ -93,8 +93,7 @@ Ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/adhdo.git](https://github.com/your-username/adhdo.git)
-   cd adhdo
+
 ## 📄 License & Disclaimer
 
 ADHdo! is a supportive productivity tool and does not claim to diagnose, prevent, or treat ADHD or any medical condition.
