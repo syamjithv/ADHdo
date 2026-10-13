@@ -40,6 +40,11 @@ Traditional to-do apps often induce guilt and cognitive overload by presenting g
 ---
 
 ## 📸 Demo
+<p align="center">
+  <a href="https://github.com/syamjithv/ADHdo/raw/refs/heads/main/Recording%202026-10-13%20153246.mp4">
+    ▶️ **Watch the ADHdo! Demo**
+  </a>
+</p>
 
 ### 🏠 My Day
 <p align="center">
