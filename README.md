@@ -1,4 +1,4 @@
-##💜 ADHdo!
+💜 ADHdo!
 <p align="center">
   <img src="assets/adhdo-logo.png" width="200" alt="ADHdo! logo">
 </p>
