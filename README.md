@@ -43,22 +43,21 @@ Traditional to-do apps often induce guilt and cognitive overload by presenting g
 
 ### 🏠 My Day
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" width="750" alt="ADHdo dashboard">
+  <img src="https://github.com/syamjithv/ADHdo/blob/main/1.png?raw=true" alt="ADHdo! Dashboard" width="900">
 </p>
 
 ### 🪄 Unstuck Mode
 <p align="center">
-  <img src="assets/screenshots/unstuck-mode.png" width="750" alt="Unstuck Mode">
+  <img src="https://github.com/syamjithv/ADHdo/blob/main/2.png?raw=true" alt="ADHdo! Feature Preview" width="900">
 </p>
 
 ### 🧩 Help Me Start
 <p align="center">
-  <img src="assets/screenshots/help-me-start.png" width="750" alt="Help Me Start">
+  <img src="https://github.com/syamjithv/ADHdo/blob/main/3.png?raw=true" alt="ADHdo! Untangle Your Brain" width="900">
 </p>
-
-### ⏳ Focus Timer
+### ⏳Focus Timer
 <p align="center">
-  <img src="assets/screenshots/focus-timer.png" width="750" alt="Focus Timer">
+  <img src="https://github.com/syamjithv/ADHdo/blob/main/4.png?raw=true" alt="ADHdo! Focus Feature" width="900">
 </p>
 
 ---
